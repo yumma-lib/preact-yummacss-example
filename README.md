@@ -1,10 +1,9 @@
 <h3 align="center">Yumma CSS — Preact</h3>
 
 <p align="center">
-  This is a Preact Yumma CSS example.
+  A Preact project with Yumma CSS.
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
-  
 
 ## Get started
 
