@@ -1,15 +1,35 @@
-# `create-preact`
+<h3 align="center">Yumma CSS — Preact</h3>
 
-<h2 align="center">
-  <img height="256" width="256" src="./src/assets/preact.svg">
-</h2>
+<p align="center">
+  This is a Preact Yumma CSS example.
+  <br>
+  <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
+  
 
-<h3 align="center">Get started using Preact and Vite!</h3>
+## Get started
 
-## Getting Started
+Yumma CSS is a utility-first library that uses abbreviated naming conventions that follow regular CSS syntax to help you debug, scale, and maintain your markup better and get your application out the door faster.
 
--   `npm run dev` - Starts a dev server at http://localhost:5173/
+## Installation
 
--   `npm run build` - Builds for production, emitting to `dist/`. Prerenders all found routes in app to static HTML
+The first thing you need to do is clone the repository.
 
--   `npm run preview` - Starts a server at http://localhost:4173/ to test production build locally
+```bash
+git clone https://github.com/yumma-lib/preact-yummacss-example.git
+```
+
+Then you can go ahead and install the dependencies.
+
+```bash
+npm i
+```
+
+Once that's done, you can start local development.
+
+```bash
+npm run dev
+```
+
+## License
+
+This project is under the MIT License.
